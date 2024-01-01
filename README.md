@@ -16,9 +16,13 @@
 # Softwears and libraries used :
 - Jupyter notebook
 - Python version 3.6
+
 - Numpy
 - Pandas
 - Matplotlib
 - Seaborn
 - scikit-learn
 - Math
+
+About Dataset:
+![download](https://github.com/MrMRaut/1151-drug-stores-sales-Data-Regression-/assets/121652990/bad7009d-9631-4c32-a5f3-fde70495f147)
