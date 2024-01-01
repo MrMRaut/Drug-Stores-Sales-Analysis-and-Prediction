@@ -1,5 +1,5 @@
 
-# Processes applied :
+# Applied methods:
 - Exploratory Data Analysis
 - Data Cleaning (Null value treatment, Duplicated)
 - Data Vizualization with insights explaination
