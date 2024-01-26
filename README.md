@@ -7,7 +7,6 @@
 - Data Manipulation
 - Feature Engineering, Feature Selection
 - Appropriate ML Model Selection
-- Data Scaling (Standardization, Noramlization)
 - Performance evaluation
 - Hyperparameter Tuning
 - Hierarchy code (whole jupyter notebook can processed in one click)
